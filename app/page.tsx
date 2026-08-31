@@ -1,6 +1,6 @@
 import AcmeLogo from "@/app/ui/acme-logo";
 import styles from "@/app/ui/home.module.css";
-import { lucitana }  from "@/app/ui/fonts";
+import { lusitana } from "@/app/ui/fonts";
 import { ArrowRightIcon } from "@heroicons/react/24/outline";
 import Link from "next/link";
 
